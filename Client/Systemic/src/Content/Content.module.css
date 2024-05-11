@@ -1,0 +1,23 @@
+.san{
+    padding: 8px 16px;
+    font-family: __Inter_aaf875, __Inter_Fallback_aaf875;
+    font-style: normal;
+    display: flex;
+    font-weight: 300;
+    justify-content: center;
+    /* align-items: center; */
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+    transition: text-shadow ease-in  .15s;
+    margin: 0px 0px 16px;
+    letter-spacing: 1px;
+    /* border: 1px solid red; */
+    text-decoration: none;
+
+}
+.san:hover{
+    font-weight:700;
+    color: #eee;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
